@@ -69,10 +69,15 @@ Data Preparation:
      2)Answer Analytical questions
      3)Save cleaned data to be used for powerBI
 
+<<<<<<< HEAD
 ![Alt text](<Data/PowerBI shot.png>)
 
 ## 🛠 Built With <a name="built-with"></a>
 
+=======
+## 🛠 Built With <a name="built-with"></a>
+
+>>>>>>> c10d467f197aedde67cebff73b8353e7ce8b877c
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
@@ -99,7 +104,11 @@ Data Preparation:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<<<<<<< HEAD
 
+=======
+![image](https://github.com/qochieng/Power-BI-dashboard-project/commit/06fa2873759fbde43450cde3551a7e3540c3c6d0)
+>>>>>>> c10d467f197aedde67cebff73b8353e7ce8b877c
 
 
 <!-- GETTING STARTED -->
@@ -152,8 +161,13 @@ In order to run this project you need:
 🕵🏽‍♀️ **Quintor Ochieng'**
 
 - GitHub: [GitHub Profile](https://github.com/qochieng)
+<<<<<<< HEAD
 - Medium: [Twitter Handle](https://medium.com/@qochieng88)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/quintor-ochieng)
+=======
+- Twitter: [Twitter Handle]()
+- LinkedIn: [LinkedIn Profile]()
+>>>>>>> c10d467f197aedde67cebff73b8353e7ce8b877c
 
 🕵🏽‍♀️ **Angella Nakkungu**
 
@@ -161,7 +175,11 @@ In order to run this project you need:
 - Twitter: [Twitter Handle]()
 - LinkedIn: [LinkedIn Profile]()
 
+<<<<<<< HEAD
 🕵🏽‍♀️ **Wilfred Onsongo**
+=======
+  🕵🏽‍♀️ **Wilfred Onsongo**
+>>>>>>> c10d467f197aedde67cebff73b8353e7ce8b877c
 
 - GitHub: [GitHub Profile](https://github.com/OnsongoN)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/wilfred-onsongo/)
