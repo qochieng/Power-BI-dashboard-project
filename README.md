@@ -71,7 +71,7 @@ Data Preparation:
 4) install the necessary Libraries in requirements.txt
 
 ```sh
-    pip install -r requiremnts.txt
+    pip install -r requirements.txt
 ```
 
 ## PowerBI
