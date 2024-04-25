@@ -1,7 +1,39 @@
-# Power-BI-dashboard-project
-An analysis of transactional data collected. The data to be analysed is for the year 2019, to generate report to help find new opportunities to drive more sales and work efficiently.
+<a name="readme-top"></a>
 
-## **Questions**
+<div align="center">
+  <h1><b>Sales Data Analysis</b></h1>
+</div>
+
+<!-- TABLE OF CONTENTS -->
+
+# 📗 Table of Contents
+
+- [📗 Table of Contents](#-table-of-contents)
+- [Sales Data Analysis ](#Sales Data Analysis-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+  - [Questions ](#Questions-)
+  - [Outline ](#Outline-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Prerequisite Libraries](#Prerequisites-Libraries)
+    - [How to Get Started](#How-To-Get-Started)
+  - [👥 Authors ](#-authors-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
+
+<!-- PROJECT DESCRIPTION -->
+
+# Sales Data Analysis <a name="Power-BI-dashboard-project"></a>
+
+ An analysis of transactional data collected. The data to be analysed is for the year 2019, to generate a report to help find new opportunities to drive more sales and work efficiently.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- Questions -->
+
+## Questions <a name="Questions"></a>
 
 1. How much money did we make this year? 
 
@@ -19,7 +51,7 @@ An analysis of transactional data collected. The data to be analysed is for the 
 
 *NB: Products with unit prices above $99.99 should be labelled high-level products  otherwise they should be basic level.*
 
-## Outline:
+# Outline:
 
 Business Understanding:
 
@@ -37,8 +69,44 @@ Data Preparation:
      2)Answer Analytical questions
      3)Save cleaned data to be used for powerBI
 
+## 🛠 Built With <a name="built-with"></a>
 
-## Tools for the Project
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>GUI</summary>
+  <ul>
+    <li><a href="">Power BI</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="">Microsoft SQL Server</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Language</summary>
+  <ul>
+    <li><a href="">Python</a></li>
+  </ul>
+</details>
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+![image](https://github.com/qochieng/Power-BI-dashboard-project/commit/06fa2873759fbde43450cde3551a7e3540c3c6d0)
+
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+### Prerequisites
+
+In order to run this project you need:
 
 * Python programming
 * Visual Studio environment
@@ -71,23 +139,64 @@ Data Preparation:
 4) install the necessary Libraries in requirements.txt
 
 ```sh
-    pip install -r requiremnts.txt
+    pip install -r requirements.txt
 ```
 
-## PowerBI
-[Link](https://app.powerbi.com/groups/me/reports/73167698-3745-494b-a80e-ca34250adb67/ReportSection?experience=power-bi)
+<!-- AUTHORS -->
 
-![Alt text](<Data/PowerBI shot.png>)
-
+## 👥 Authors <a name="authors"></a>
 
 
-## License:
+🕵🏽‍♀️ **Quintor Ochieng'**
 
-MIT
+- GitHub: [GitHub Profile](https://github.com/qochieng)
+- Twitter: [Twitter Handle]()
+- LinkedIn: [LinkedIn Profile]()
 
+🕵🏽‍♀️ **Angella Nakkungu**
 
+- GitHub: [GitHub Profile]()
+- Twitter: [Twitter Handle]()
+- LinkedIn: [LinkedIn Profile]()
 
-## Author:
-Quintor Ochieng'
+  🕵🏽‍♀️ **Wilfred Onsongo**
 
-[Github Link](https://github.com/qochieng/Power-BI-dashboard-project)
+- GitHub: [GitHub Profile](https://github.com/OnsongoN)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/wilfred-onsongo/)
+
+  
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project kindly show some love, give it a 🌟 **STAR** 🌟
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank all the free available resource made available online
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
