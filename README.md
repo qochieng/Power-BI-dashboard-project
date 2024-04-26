@@ -8,21 +8,21 @@
 
 # 📗 Table of Contents
 
-- [📗 Table of Contents](#-table-of-contents)
-- [Sales Data Analysis ](#Sales Data Analysis-)
-  - [🛠 Built With ](#-built-with-)
-    - [Tech Stack ](#tech-stack-)
-  - [Questions ](#Questions-)
-  - [Outline ](#Outline-)
-  - [💻 Getting Started ](#-getting-started-)
-    - [Prerequisites](#prerequisites)
+- [📗 Table of Contents](#Table-of-Contents)
+- [Sales Data Analysis ](#Sales-Data-Analysis)
+  - [🛠 Built With ](#Built-With)
+    - [Tech Stack ](#Tech-Stack)
+  - [Questions ](#Questions)
+  - [Outline ](#Outline)
+  - [💻 Getting Started ](#Getting-Started)
+    - [Prerequisites](#Prerequisites)
     - [Prerequisite Libraries](#Prerequisites-Libraries)
     - [How to Get Started](#How-To-Get-Started)
-  - [👥 Authors ](#-authors-)
-  - [🤝 Contributing ](#-contributing-)
-  - [⭐️ Show your support ](#️-show-your-support-)
-  - [🙏 Acknowledgments ](#-acknowledgments-)
-  - [📝 License ](#-license-)
+  - [👥 Authors ](#Authors)
+  - [🤝 Contributing ](#Contributing)
+  - [⭐️ Show your support ](#️Show-Your-Support)
+  - [🙏 Acknowledgments ](#Acknowledgments)
+  - [📝 License ](#License)
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -162,6 +162,7 @@ In order to run this project you need:
   🕵🏽‍♀️ **Wilfred Onsongo**
 
 - GitHub: [GitHub Profile](https://github.com/OnsongoN)
+- Medium: [Medium Profile](https://medium.com/@WilfredOnsongo)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/wilfred-onsongo/)
 
   
