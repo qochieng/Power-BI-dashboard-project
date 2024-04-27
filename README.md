@@ -30,6 +30,35 @@
 
  An analysis of transactional data collected. The data to be analysed is for the year 2019, to generate a report to help find new opportunities to drive more sales and work efficiently.
 
+ ## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>GUI</summary>
+  <ul>
+    <li><a href="">Power BI</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="">Microsoft SQL Server</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Language</summary>
+  <ul>
+    <li><a href="">Python</a></li>
+  </ul>
+</details>
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- Questions -->
 
@@ -70,35 +99,6 @@ Data Preparation:
      3)Save cleaned data to be used for powerBI
 
 ![Alt text](<Data/PowerBI shot.png>)
-
-## 🛠 Built With <a name="built-with"></a>
-
-### Tech Stack <a name="tech-stack"></a>
-
-<details>
-  <summary>GUI</summary>
-  <ul>
-    <li><a href="">Power BI</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="">Microsoft SQL Server</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Language</summary>
-  <ul>
-    <li><a href="">Python</a></li>
-  </ul>
-</details>
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
@@ -160,10 +160,11 @@ In order to run this project you need:
 - Twitter: [Twitter Handle]()
 - LinkedIn: [LinkedIn Profile]()
 
+
 🕵🏽‍♀️ **Wilfred Onsongo**
 
 - GitHub: [GitHub Profile](https://github.com/OnsongoN)
-- Twitter: [Twitter Handle]()
+- Medium: [Medium Profile](https://medium.com/@WilfredOnsongo)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/wilfred-onsongo/)
 
   
