@@ -156,9 +156,9 @@ In order to run this project you need:
 
 🕵🏽‍♀️ **Angella Nakkungu**
 
-- GitHub: [GitHub Profile](https://github.com/angella.nakkungu)
-- Twitter: [Twitter Handle]()
-- LinkedIn: [LinkedIn Profile]()
+- GitHub: [GitHub Profile](https://github.com/Nakkungu)
+- Twitter: [Twitter Handle](https://twitter.com/angiesharonn)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/angella-nakkungu/)
 
 
 🕵🏽‍♀️ **Wilfred Onsongo**
